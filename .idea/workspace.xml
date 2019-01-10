@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="10d05c38-2d9a-48d2-873b-ec9aa25965db" name="Default" comment="" />
+    <list default="true" id="10d05c38-2d9a-48d2-873b-ec9aa25965db" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/src/BottlesSong.java" afterPath="$PROJECT_DIR$/src/BottlesSong.java" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -15,8 +18,8 @@
       <file leaf-file-name="BottlesSong.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/BottlesSong.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="29" lean-forward="false" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="29" />
+            <state relative-caret-position="285">
+              <caret line="19" column="29" lean-forward="false" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
               <folding>
                 <element signature="e#518#519#0" expanded="true" />
                 <element signature="e#572#573#0" expanded="true" />
@@ -30,7 +33,7 @@
       <file leaf-file-name="SongTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test/SongTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-239">
+            <state relative-caret-position="210">
               <caret line="14" column="9" lean-forward="true" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -74,7 +77,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="797" />
@@ -397,12 +400,12 @@
     <history-entry file="SongTest - 2019.01.09 at 00h 34m 25s.xml">
       <configuration name="SongTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SongTest_shouldReturnTheSongInDecrescentLevelAndTheFixedLyricsWhenNumberOfBottlesIsMoreThanTwo - 2019.01.09 at 00h 26m 54s.xml">
-      <configuration name="SongTest.shouldReturnTheSongInDecrescentLevelAndTheFixedLyricsWhenNumberOfBottlesIsMoreThanTwo" configurationId="JUnit" />
+    <history-entry file="SongTest - 2019.01.10 at 14h 23m 00s.xml">
+      <configuration name="SongTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="797" extended-state="1" />
+    <frame x="0" y="23" width="1440" height="797" extended-state="0" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -450,7 +453,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test/SongTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-239">
+        <state relative-caret-position="210">
           <caret line="14" column="9" lean-forward="true" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -460,8 +463,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/BottlesSong.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="29" lean-forward="false" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="29" />
+        <state relative-caret-position="285">
+          <caret line="19" column="29" lean-forward="false" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
           <folding>
             <element signature="e#518#519#0" expanded="true" />
             <element signature="e#572#573#0" expanded="true" />

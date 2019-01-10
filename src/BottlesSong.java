@@ -17,14 +17,16 @@ public class BottlesSong {
     }
 
     public String displaySong() {
-
+        if(numberOfBottles==0){
+            return noBottles;
+        }
         while (numberOfBottles>1){
             song = song + numberOfBottles + " bottles of beer on the wall, " + numberOfBottles + " bottles of beer.\n" +
                     "Take one down and pass it around, " + (numberOfBottles -1) + " " + defineSingularOrPlural()
                     + " of beer on the wall.\n";
             numberOfBottles--;
         }
-        return (numberOfBottles==0) ? noBottles : (song + oneBottle + noBottles);
+        return song + oneBottle + noBottles;
     }
 
     public static void main(String[] args) {
