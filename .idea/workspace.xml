@@ -4,6 +4,7 @@
     <list default="true" id="10d05c38-2d9a-48d2-873b-ec9aa25965db" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/src/BottlesSong.java" afterPath="$PROJECT_DIR$/src/BottlesSong.java" />
+      <change beforePath="$PROJECT_DIR$/test/SongTest.java" afterPath="$PROJECT_DIR$/test/SongTest.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,27 +15,25 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="BottlesSong.java" pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="BottlesSong.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/BottlesSong.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="29" lean-forward="false" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
+            <state relative-caret-position="-54">
+              <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
               <folding>
-                <element signature="e#518#519#0" expanded="true" />
-                <element signature="e#572#573#0" expanded="true" />
-                <element signature="e#619#620#0" expanded="true" />
-                <element signature="e#690#691#0" expanded="true" />
+                <element signature="e#1354#1355#0" expanded="true" />
+                <element signature="e#1394#1395#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SongTest.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="SongTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test/SongTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="9" lean-forward="true" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+            <state relative-caret-position="3870">
+              <caret line="258" column="4" lean-forward="false" selection-start-line="258" selection-start-column="4" selection-end-line="258" selection-end-column="4" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -72,8 +71,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/test/SongTestTest.java" />
-        <option value="$PROJECT_DIR$/test/SongTest.java" />
         <option value="$PROJECT_DIR$/src/BottlesSong.java" />
+        <option value="$PROJECT_DIR$/test/SongTest.java" />
       </list>
     </option>
   </component>
@@ -98,7 +97,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -126,9 +124,10 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="AndroidView" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -199,14 +198,14 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="SongTest.shouldReturnTheFinalLyricWhenNumberOfBottlesIsZero" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SongTest.shouldReturnTheEntireSongInDecrescentLevelWhenNumberOfBottlesIs99" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="99Bottles" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="SongTest" />
-      <option name="METHOD_NAME" value="shouldReturnTheFinalLyricWhenNumberOfBottlesIsZero" />
+      <option name="METHOD_NAME" value="shouldReturnTheEntireSongInDecrescentLevelWhenNumberOfBottlesIs99" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -219,14 +218,14 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="SongTest.shouldReturnThePenultAndFinalLyricsWhenNumberOfBottlesIsOne" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SongTest.shouldReturnTheFinalLyricWhenNumberOfBottlesIsZero" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="99Bottles" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="SongTest" />
-      <option name="METHOD_NAME" value="shouldReturnThePenultAndFinalLyricsWhenNumberOfBottlesIsOne" />
+      <option name="METHOD_NAME" value="shouldReturnTheFinalLyricWhenNumberOfBottlesIsZero" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -259,14 +258,14 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="SongTest.shouldReturnTheThirdLastAndPenultAndFinalLyricsWhenNumberOfBottlesIsOne" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SongTest.shouldValidate1VerseLyricsWhenNumberOfBottlesIs1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="99Bottles" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="SongTest" />
-      <option name="METHOD_NAME" value="shouldReturnTheThirdLastAndPenultAndFinalLyricsWhenNumberOfBottlesIsOne" />
+      <option name="METHOD_NAME" value="shouldValidate1VerseLyricsWhenNumberOfBottlesIs1" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -340,18 +339,18 @@
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.SongTest.shouldReturnTheFinalLyricWhenNumberOfBottlesIsZero" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.SongTest.shouldReturnThePenultAndFinalLyricsWhenNumberOfBottlesIsOne" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.SongTest.shouldReturnTheThirdLastAndPenultAndFinalLyricsWhenNumberOfBottlesIsOne" />
+      <item index="0" class="java.lang.String" itemvalue="JUnit.SongTest" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.SongTest.shouldReturnTheFinalLyricWhenNumberOfBottlesIsZero" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.SongTest.shouldValidate1VerseLyricsWhenNumberOfBottlesIs1" />
       <item index="3" class="java.lang.String" itemvalue="JUnit.SongTest.shouldReturnTheSongInDecrescentLevelAndTheFixedLyricsWhenNumberOfBottlesIsMoreThanTwo" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.SongTest" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.SongTest.shouldReturnTheEntireSongInDecrescentLevelWhenNumberOfBottlesIs99" />
     </list>
     <recent_temporary>
       <list size="5">
         <item index="0" class="java.lang.String" itemvalue="JUnit.SongTest" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.SongTest.shouldReturnTheSongInDecrescentLevelAndTheFixedLyricsWhenNumberOfBottlesIsMoreThanTwo" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.SongTest.shouldReturnTheThirdLastAndPenultAndFinalLyricsWhenNumberOfBottlesIsOne" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.SongTest.shouldReturnThePenultAndFinalLyricsWhenNumberOfBottlesIsOne" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.SongTest.shouldReturnTheEntireSongInDecrescentLevelWhenNumberOfBottlesIs99" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.SongTest.shouldReturnTheSongInDecrescentLevelAndTheFixedLyricsWhenNumberOfBottlesIsMoreThanTwo" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.SongTest.shouldValidate1VerseLyricsWhenNumberOfBottlesIs1" />
         <item index="4" class="java.lang.String" itemvalue="JUnit.SongTest.shouldReturnTheFinalLyricWhenNumberOfBottlesIsZero" />
       </list>
     </recent_temporary>
@@ -373,88 +372,104 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="SongTest - 2019.01.09 at 00h 27m 00s.xml">
+    <history-entry file="SongTest - 2019.01.17 at 09h 46m 05s.xml">
       <configuration name="SongTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SongTest - 2019.01.09 at 00h 28m 23s.xml">
+    <history-entry file="SongTest - 2019.01.17 at 09h 47m 54s.xml">
       <configuration name="SongTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SongTest - 2019.01.09 at 00h 30m 17s.xml">
-      <configuration name="SongTest" configurationId="JUnit" />
+    <history-entry file="SongTest_shouldReturnTheEntireSongInDecrescentLevelWhenNumberOfBottlesIs99 - 2019.01.17 at 10h 06m 09s.xml">
+      <configuration name="SongTest.shouldReturnTheEntireSongInDecrescentLevelWhenNumberOfBottlesIs99" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SongTest - 2019.01.09 at 00h 30m 27s.xml">
-      <configuration name="SongTest" configurationId="JUnit" />
+    <history-entry file="SongTest_shouldReturnTheEntireSongInDecrescentLevelWhenNumberOfBottlesIs99 - 2019.01.17 at 10h 06m 20s.xml">
+      <configuration name="SongTest.shouldReturnTheEntireSongInDecrescentLevelWhenNumberOfBottlesIs99" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SongTest - 2019.01.09 at 00h 32m 06s.xml">
-      <configuration name="SongTest" configurationId="JUnit" />
+    <history-entry file="SongTest_shouldReturnTheEntireSongInDecrescentLevelWhenNumberOfBottlesIs99 - 2019.01.17 at 10h 06m 51s.xml">
+      <configuration name="SongTest.shouldReturnTheEntireSongInDecrescentLevelWhenNumberOfBottlesIs99" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SongTest - 2019.01.09 at 00h 32m 27s.xml">
-      <configuration name="SongTest" configurationId="JUnit" />
+    <history-entry file="SongTest_shouldReturnTheSongInDecrescentLevelAndTheFixedLyricsWhenNumberOfBottlesIsMoreThanTwo - 2019.01.17 at 10h 01m 15s.xml">
+      <configuration name="SongTest.shouldReturnTheSongInDecrescentLevelAndTheFixedLyricsWhenNumberOfBottlesIsMoreThanTwo" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SongTest - 2019.01.09 at 00h 33m 32s.xml">
-      <configuration name="SongTest" configurationId="JUnit" />
+    <history-entry file="SongTest_shouldReturnTheSongInDecrescentLevelAndTheFixedLyricsWhenNumberOfBottlesIsMoreThanTwo - 2019.01.17 at 10h 02m 10s.xml">
+      <configuration name="SongTest.shouldReturnTheSongInDecrescentLevelAndTheFixedLyricsWhenNumberOfBottlesIsMoreThanTwo" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SongTest - 2019.01.09 at 00h 33m 55s.xml">
-      <configuration name="SongTest" configurationId="JUnit" />
+    <history-entry file="SongTest_shouldReturnTheSongInDecrescentLevelAndTheFixedLyricsWhenNumberOfBottlesIsMoreThanTwo - 2019.01.17 at 10h 02m 24s.xml">
+      <configuration name="SongTest.shouldReturnTheSongInDecrescentLevelAndTheFixedLyricsWhenNumberOfBottlesIsMoreThanTwo" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SongTest - 2019.01.09 at 00h 34m 25s.xml">
-      <configuration name="SongTest" configurationId="JUnit" />
+    <history-entry file="SongTest_shouldReturnTheSongInDecrescentLevelAndTheFixedLyricsWhenNumberOfBottlesIsMoreThanTwo - 2019.01.17 at 10h 02m 54s.xml">
+      <configuration name="SongTest.shouldReturnTheSongInDecrescentLevelAndTheFixedLyricsWhenNumberOfBottlesIsMoreThanTwo" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SongTest - 2019.01.10 at 14h 23m 00s.xml">
-      <configuration name="SongTest" configurationId="JUnit" />
+    <history-entry file="SongTest_shouldReturnTheSongInDecrescentLevelAndTheFixedLyricsWhenNumberOfBottlesIsMoreThanTwo - 2019.01.17 at 10h 03m 33s.xml">
+      <configuration name="SongTest.shouldReturnTheSongInDecrescentLevelAndTheFixedLyricsWhenNumberOfBottlesIsMoreThanTwo" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="797" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32905984" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32905984" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24964234" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32905984" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32905984" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32905984" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2532189" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3988604" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="2" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/test/SongTest.java">
+    <entry file="file://$PROJECT_DIR$/src/BottlesSong.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="e#1354#1355#0" expanded="true" />
+            <element signature="e#1394#1395#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test/SongTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
+        <state relative-caret-position="180">
           <caret line="14" column="9" lean-forward="true" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/SongTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -463,13 +478,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/BottlesSong.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="29" lean-forward="false" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
+        <state relative-caret-position="-54">
+          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
           <folding>
-            <element signature="e#518#519#0" expanded="true" />
-            <element signature="e#572#573#0" expanded="true" />
-            <element signature="e#619#620#0" expanded="true" />
-            <element signature="e#690#691#0" expanded="true" />
+            <element signature="e#1354#1355#0" expanded="true" />
+            <element signature="e#1394#1395#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/SongTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3870">
+          <caret line="258" column="4" lean-forward="false" selection-start-line="258" selection-start-column="4" selection-end-line="258" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
